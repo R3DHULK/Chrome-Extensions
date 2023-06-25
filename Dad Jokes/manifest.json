@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Dad Jokes",
+    "version": "1.0",
+    "description": "Enjoy a daily dose of dad jokes!",
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon16.png",
+            "48": "icon48.jpg",
+            "128": "icon128.jpg"
+        }
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.jpg",
+        "128": "icon128.jpg"
+    }
+}
