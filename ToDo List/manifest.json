@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Todo List",
+    "version": "1.0",
+    "description": "A simple todo list extension for Chrome",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
