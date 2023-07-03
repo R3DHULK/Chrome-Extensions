@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Number Guessing Game",
+    "version": "1.0",
+    "description": "A simple number guessing game.",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
