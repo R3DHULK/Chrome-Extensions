@@ -1,7 +1,7 @@
 {
     "name": "Redhulk's Adblocker",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "Free Adblocker Tool",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
