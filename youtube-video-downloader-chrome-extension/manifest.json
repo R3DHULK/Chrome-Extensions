@@ -1,0 +1,22 @@
+{
+    "name": "One Click YouTube Video Downloader",
+    "description" : "YouTube video download extesion",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup" : "index.html",
+        "default_icon": {
+            "16": "ytd.png",
+            "48": "ytd.png",
+            "128": "ytd.png"
+        }
+    },
+    "icons": {
+        "16": "ytd.png",
+        "48": "ytd.png",
+        "128": "ytd.png"
+    },
+    "permissions": [
+        "activeTab", "http://*/*", "https://*/*", "tabs"
+    ]
+}
