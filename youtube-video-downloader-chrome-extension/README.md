@@ -1,9 +1,11 @@
 # One Click Video Download for chrome
 
-A chomre extension that allows you to download YouTube videos with a single click.
-
-
+A chrome extension that allows you to download YouTube videos with a single click.
 
 ## usage
+go to server folder.
+install node_modules
+start server `node app.js`
+add extension into chrome
 
-You just click the "One Click" button.
+You just need to click the "One Click" button while serving your favourite youtube video.
